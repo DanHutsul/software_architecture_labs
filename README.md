@@ -1,2 +1,4 @@
-# software_architecture_labs
- 
+# Lab 2: Hazelcast basics
+
+## Results:
+Task2Output.pdf
